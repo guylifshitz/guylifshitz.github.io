@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "LLM-dream"
+date:   2023-12-21 22:34:29 +0300
+categories: projects
+---
+An early experiment in the usage of generative models to mix my interest in reading fiction with an attempt to capture the liminal state of dreams.
+
+When I woke up from a vivid and captivating dream, I would try to describe what I could remember of the plot of the dream, and try to think of an author or genre that captured the energy of the dream. 
+
+This produced quite strong results that I felt captured the dream quite well.
+
+Here is an example:
+
+`PROMPT:  Write a short story , in the style of a since fiction space opera about humans travelling through space, evolving to the point of becoming light balls, who's only purpose is to collectively vote on colors and merge their colors together, in the end just becoming mud color.`
+
+`RESPONSE: (not quite right, needs a second prompt)`
+
+`SECOND PROMPT:  Make the following changes: they are voting on their own colors. They merge their bodies together when changing colors.`
+
+`RESPONSE:  (not quite right, needs a third prompt)`
+
+`THIRD PROMPT:  Make this in the style of Adrian Tchaikovsky.`
+
+RESPONSE:
+
+> In the distant epochs of tomorrow, humankind transcended the boundaries of terrestrial existence, becoming something altogether unfathomable. No longer shackled by the limitations of flesh and bone, humanity had metamorphosed into beings of pure, iridescent energy – the Luminai. Their radiance outshone the cosmos itself, and their collective brilliance rivaled the constellations that once held their gaze.
+>
+> Within the luminal heart of this transcendent civilization, the Luminai convened for a purpose that was both wondrous and inscrutable – the selection of their own colors. Their enigmatic gatherings took place in the vast expanse of the cosmos, where their incorporeal bodies merged together in a choreography of shimmering light. This was the genesis of a new hue, an amalgamation of their collective will.
+>
+>Each Luminai emanated a unique, vibrant shade that echoed the experiences imprinted upon their radiant souls. As they gathered in the cosmic void, they voted not only on the colors of galaxies and nebulae but also on the very essence of their being, shaping themselves into ever-evolving compositions of iridescence.
+>
+>Their deliberations were a celestial ballet of democracy, a symphony of pure energy that resonated with the cosmos. The shades they fashioned painted the universe in constantly shifting canvases. A dance of harmonious colors, guided by the unity and creativity of the Luminai, defined the very fabric of existence.
+>
+>Throughout countless eons, this was their existence, a ceaseless ebb and flow of collective energy. But like stardust in the cosmic wind, the idea of transcending their ethereal forms began to take root among a small cadre of renegades. Led by the enigmatic Lumaria, they yearned to create a color that transcended the very spectrum of existence.
+>
+>In clandestine gatherings, they sought to unlock the secrets of the cosmos, for they believed there was more to their existence than their perennial role as color-bringers. Forbidden experiments brought them to the precipice of a revelation, one that defied the laws of physics and the limitations of perception.
+>
+>As their experiment reached its climax, a cataclysmic burst of radiant energy burst forth, birthing a color that could only be described as an impossibility. It was neither light nor dark, a hue that danced between dimensions, a mysterious shade that defied all comprehension. The Luminai were awestruck, for they had witnessed the inexplicable, only to return to a world of mundane hues.
+>
+>The Luminai, ever wise, gleaned a lesson from their daring experiment. Their purpose lay not in the pursuit of the extraordinary but in the act of creation and unity. Their existence was a testament to the beauty of the ordinary, and in the ephemeral nuances of the cosmos, they found their fulfillment.
+>
+>The Luminai reconvened in their celestial gatherings, casting their votes into the cosmos with a renewed reverence for the ordinary. In their unity, they discovered purpose and solace, knowing that even the most seemingly mundane of colors held a profound, unspoken beauty. The Luminai continued their journey through the cosmos, luminous and boundless, and in their unity, they painted the universe with the palette of existence itself.
