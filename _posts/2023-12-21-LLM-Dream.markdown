@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "LLM-dream"
+title:  "LLM-Dream"
 date:   2023-12-21 22:34:29 +0300
 categories: projects
 ---
@@ -12,17 +12,17 @@ This produced quite strong results that I felt captured the dream quite well.
 
 Here is an example:
 
-`PROMPT:  Write a short story , in the style of a since fiction space opera about humans travelling through space, evolving to the point of becoming light balls, who's only purpose is to collectively vote on colors and merge their colors together, in the end just becoming mud color.`
+**PROMPT:** `Write a short story , in the style of a since fiction space opera about humans travelling through space, evolving to the point of becoming light balls, who's only purpose is to collectively vote on colors and merge their colors together, in the end just becoming mud color.`
 
-`RESPONSE: (not quite right, needs a second prompt)`
+**RESPONSE:** `(not quite right, needs a second prompt)`
 
-`SECOND PROMPT:  Make the following changes: they are voting on their own colors. They merge their bodies together when changing colors.`
+**SECOND PROMPT:** `Make the following changes: they are voting on their own colors. They merge their bodies together when changing colors.`
 
-`RESPONSE:  (not quite right, needs a third prompt)`
+**RESPONSE:**  `(not quite right, needs a third prompt)`
 
-`THIRD PROMPT:  Make this in the style of Adrian Tchaikovsky.`
+**THIRD PROMPT:** `Make this in the style of Adrian Tchaikovsky.`
 
-RESPONSE:
+**RESPONSE:**
 
 > In the distant epochs of tomorrow, humankind transcended the boundaries of terrestrial existence, becoming something altogether unfathomable. No longer shackled by the limitations of flesh and bone, humanity had metamorphosed into beings of pure, iridescent energy – the Luminai. Their radiance outshone the cosmos itself, and their collective brilliance rivaled the constellations that once held their gaze.
 >
