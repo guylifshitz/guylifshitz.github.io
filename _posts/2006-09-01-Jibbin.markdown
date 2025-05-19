@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Jibbin"
+date:   2006-09-01 22:34:29 +0300
+categories: projects
+---
+A free-skiing game I wrote when I was… 16, no harsh judgements on the graphics and gameplay please :).
+
+I am going to upload the game to this server as soon as I can get my hands on my old hard drive.
+
+Link

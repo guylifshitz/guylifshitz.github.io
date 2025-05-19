@@ -3,12 +3,14 @@ layout: default
 title: writings
 ---
 
-<h1>writings</h1>
-<ul>
+<h1 class="category-title">writings</h1>
+<div class="post-list">
   {% for post in site.posts %} {% if post.categories contains "writings" %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %Y"
-    }}
-  </li>
-  {% endif %} {% endfor %}
-</ul>
+  <div class="post-list-entry">
+    <div class="post-entry-title">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </div>
+    <div class="post-entry-date">{{ post.date | date: "%h %Y" }}</div>
+  </div>
+  {% endif %}{% endfor %}
+</div>
