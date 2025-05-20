@@ -4,18 +4,21 @@ title:  "GSM Tower Antenna"
 date:   2021-07-23 22:34:29 +0300
 categories: projects
 ---
-I provided the technical assistance, with the creation of a 3G mobile phone tower and software to run it.
+I provided the technical assistance for the work, with the creation of a 3G mobile phone tower, the software to make automated phone calls and send SMS messages to phones connected to the tower, as well as the software to automate sending SMS messages using a SAS when tower connectivity was lost.
 
-Title: Needs to Save my Life
+**Title:** Needs to Save my Life
 
-Artist: Tal Engelstein
+**Artist:** Tal Engelstein
 
-Date: 23.7.2021
+**Date:** 23/07/2021
 
-Location: Levinsky Market Parking Lot
+**Location:** Levinsky Market Parking Lot
 
-​Artist’s description of the work:
+**The artist’s description of the work:**
 
 A stream of text messages is sent from a pirate cellular antenna – that is wired to a red parking car – to the cell phones of random passers-by in Levinsky Market. Every few seconds they receive a text message that turns up on their screen. The messages, whose context is intimate, are seemingly sent from an acquaintance, but it might be a wrong number. This is not an election campaign communication but a fictional script written by the artist and sent to unknown recipients. The script rolls out a sequence of messages from a woman in distress who lives somewhere near the market. She is isolated, asking for groceries and emotional support – her life needs saving.
 
-[Read more](https://en.tama-outofthecube.com/tal-engelstein)
+[Read more](https://talengelstein.com/Needs-to-Save-my-Life){:target="_blank"}
+
+![An image of the final project]({{"assets/images/2021-07-23-gsm-tower/tal-antenna.jpg",  | relative_url }})
+
