@@ -4,8 +4,16 @@ title:  "Jibbin"
 date:   2006-09-01 22:34:29 +0300
 categories: projects
 ---
-A free-skiing game I wrote when I was… 16, no harsh judgements on the graphics and gameplay please :).
+A 3D free-skiing game I wrote when I was… 16, no harsh judgements on the graphics and gameplay please :).
 
 I am going to upload the game to this server as soon as I can get my hands on my old hard drive.
 
-Link
+Conceived as open-source, allowing the community to customize their game by making new levels and characters.
+
+[Gameplay (user videos)](https://www.youtube.com/results?search_query=Jibbin+game){:target="_blank"}
+
+![image]({{"assets/images/2006-09-01-Jibbin/304741119_155481970416301_7575614463886823264_n.png",  | relative_url }})
+
+![image]({{"assets/images/2006-09-01-Jibbin/pad_screenshot_1.png",  | relative_url }})
+
+![image]({{"assets/images/2006-09-01-Jibbin/pad_screenshot.png",  | relative_url }})

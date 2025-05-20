@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Accessibility Plugin for Thunderbird"
+title:  " Thunderbird Accessibility"
 date:   2021-10-11 22:34:29 +0300
 categories: projects
 ---
