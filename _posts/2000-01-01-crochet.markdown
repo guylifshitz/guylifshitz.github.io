@@ -1,7 +1,29 @@
 ---
 layout: post
-title:  "Crochet / Embroidery"
+title:  "Crochet Amigurumi"
 date:   2000-01-01 22:34:29 +0300
 categories: other
 ---
-Crochet / Embroidery
+A selection of the crochet amigurumi projects that I have worked on over the years.
+
+<div style="text-align: center;">
+<a href="{{ 'assets/images/crochet/1.jpg' | relative_url }}" target="_blank">
+  <img src="{{ 'assets/images/crochet/1.jpg' | relative_url }}" width="600">
+</a>
+
+<a href="{{ 'assets/images/crochet/2.jpg' | relative_url }}" target="_blank">
+  <img src="{{ 'assets/images/crochet/2.jpg' | relative_url }}" width="600">
+</a>
+
+<a href="{{ 'assets/images/crochet/3.jpg' | relative_url }}" target="_blank">
+  <img src="{{ 'assets/images/crochet/3.jpg' | relative_url }}" width="600">
+</a>
+
+<a href="{{ 'assets/images/crochet/4.jpg' | relative_url }}" target="_blank">
+  <img src="{{ 'assets/images/crochet/4.jpg' | relative_url }}" width="600">
+</a>
+
+<a href="{{ 'assets/images/crochet/5.jpg' | relative_url }}" target="_blank">
+  <img src="{{ 'assets/images/crochet/5.jpg' | relative_url }}" width="600">
+</a>
+</div>

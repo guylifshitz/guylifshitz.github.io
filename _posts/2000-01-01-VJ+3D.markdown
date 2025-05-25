@@ -4,4 +4,36 @@ title:  "VJ+3D"
 date:   2000-01-01 22:34:29 +0300
 categories: other
 ---
-yadaya
+A selection of the 3D and video art projects that I have made over the years.
+
+<div style="text-align: center;">
+  <video width="640" controls>
+    <source src="{{ 'assets/images/vj-3d/v1.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <a href="{{ 'assets/images/vj-3d/1.jpg' | relative_url }}" target="_blank">
+    <img src="{{ 'assets/images/vj-3d/1.jpg' | relative_url }}" width="640">
+  </a>
+  <a href="{{ 'assets/images/vj-3d/2.jpg' | relative_url }}" target="_blank">
+    <img src="{{ 'assets/images/vj-3d/2.jpg' | relative_url }}" width="640">
+  </a>
+  <a href="{{ 'assets/images/vj-3d/3.jpg' | relative_url }}" target="_blank">
+    <img src="{{ 'assets/images/vj-3d/3.jpg' | relative_url }}" width="640">
+  </a>
+  <a href="{{ 'assets/images/vj-3d/4.jpg' | relative_url }}" target="_blank">
+    <img src="{{ 'assets/images/vj-3d/4.jpg' | relative_url }}" width="640">
+  </a>
+  <a href="{{ 'assets/images/vj-3d/5.jpg' | relative_url }}" target="_blank">
+    <img src="{{ 'assets/images/vj-3d/5.jpg' | relative_url }}" width="640">
+  </a>
+  <a href="{{ 'assets/images/vj-3d/6.jpg' | relative_url }}" target="_blank">
+    <img src="{{ 'assets/images/vj-3d/6.jpg' | relative_url }}" width="640">
+  </a>
+  <a href="{{ 'assets/images/vj-3d/7.jpg' | relative_url }}" target="_blank">
+    <img src="{{ 'assets/images/vj-3d/7.jpg' | relative_url }}" width="640">
+  </a>
+  <video width="640" controls>
+    <source src="{{ 'assets/images/vj-3d/v2.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
