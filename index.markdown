@@ -1,6 +1,16 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: projects
 ---
+
+<h1 class="category-title">projects</h1>
+<div class="post-list">
+  {% for post in site.posts %} {% if post.categories contains "projects" %}
+  <div class="post-list-entry">
+    <div class="post-entry-title">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </div>
+    <div class="post-entry-date">{{ post.date | date: "%h %Y" }}</div>
+  </div>
+  {% endif %}{% endfor %}
+</div>
