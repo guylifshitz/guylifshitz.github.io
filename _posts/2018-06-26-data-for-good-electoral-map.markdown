@@ -2,7 +2,9 @@
 layout: post
 title:  "Data for Good: Open Electoral Map"
 date:   2018-06-26 22:34:29 +0300
-categories: projects
+categories: 
+    - projects
+    - political science
 ---
 A web interface displaying a map of France divided in "X" circonscriptions, with a slider to change their number. Circonscriptions must be equal in population compact (no weird shapes) and continuous (not broken into multiple non-touching parts). As much as possible they must not go outside of municipal and departmental limits. We developed an evolutionnary k-means clustering algorithm to create equally sized population clusters. 
 

@@ -2,7 +2,9 @@
 layout: post
 title:  "Cat v Trump"
 date:   2019-05-18 22:34:29 +0300
-categories: projects
+categories: 
+    - projects
+    - game
 ---
 A quick and simple game I made to teach basic game coding at the “We Are Not the Number We Think We Are ” event held by Bétonsalon Centre for Contemporary Art and Research, hosted at la Cité International des Arts. Made with [Stencyl](https://www.stencyl.com/){:target="_blank"}, a no-code tool for making games.
 

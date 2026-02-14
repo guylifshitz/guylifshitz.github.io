@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "Crochet Amigurumi"
-date:   2000-01-01 22:34:29 +0300
-categories: other
+date:   2020-10-01 22:34:29 +0300
+categories: 
+  - projects
+  - art 
+
 ---
 A selection of the crochet amigurumi projects that I have worked on over the years.
 

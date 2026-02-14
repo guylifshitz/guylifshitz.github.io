@@ -2,7 +2,9 @@
 layout: post
 title:  "QueerWeek Hackathon(s)"
 date:   2018-03-11 22:34:29 +0300
-categories: projects
+categories: 
+    - projects
+    - hackathon
 ---
 The Carrefour numérique²—part of the Cité des sciences in Paris hosted two queer hackathons as part of the Queer Week festival (2018 and 2019). Participants came together to explore a wide range of topics like discrimination, feminism, and LGBTQ+ rights, all while working in a collaborative, hands-on setting. The goal was to create meaningful prototypes that addressed issues important to the queer community and could be showcased during Queer Week, a broader festival focused on gender and sexuality.
 

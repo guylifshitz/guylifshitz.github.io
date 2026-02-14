@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Epsilon"
+title:  "Epsilon : IoT Consulant"
 date:   2024-08-01 22:34:29 +0300
-categories: projects
+categories: 
+    - projects
+    - art
 ---
 Consultant for Tal Engelstein’s project "Epsilon" at the CCA – Center for Contemporary Art.
 

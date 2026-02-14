@@ -21,7 +21,15 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %Y" -%}
         {{ page.date | date: date_format }}
       </time>
-      {%- endunless -%}
+      {%- endunless -%} {%- if page.categories and page.categories.size > 0 -%}
+      <div>
+      <span class="post-entry-tags post-header-tags">
+        {%- for category in page.categories -%}
+        <span class="post-entry-tag">{{ category }}</span>
+        {%- endfor -%}
+      </span>
+      </div>
+      {%- endif -%}
     </p>
   </header>
 

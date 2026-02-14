@@ -2,7 +2,9 @@
 layout: post
 title:  "LLM-Dream"
 date:   2023-12-21 22:34:29 +0300
-categories: projects
+categories:
+    - projects
+    - genAI
 ---
 An early experiment in the usage of generative models to mix my interest in reading fiction with an attempt to capture the liminal state of dreams.
 

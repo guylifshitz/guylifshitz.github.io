@@ -2,7 +2,9 @@
 layout: post
 title:  " Thunderbird Accessibility"
 date:   2021-10-11 22:34:29 +0300
-categories: projects
+categories: 
+    - projects
+    - hackathon
 ---
 Built in a team during a Hackathon in Paris (La Nuit du Code Citoyen, October 2021), working with the accessibility non-profit [A.C.I.A.H.](https://aciah.xyz/){:target="_blank"}. We created a new accessibility plugin for Thunderbird, and updated an existing plugin to work with the newest version of Thunderbird. Worked on this with Max. 
 

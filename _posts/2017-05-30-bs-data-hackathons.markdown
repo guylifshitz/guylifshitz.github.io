@@ -2,7 +2,9 @@
 layout: post
 title:  "Hackathon : Data & Art 2"
 date:   2017-05-30 22:34:29 +0300
-categories: projects
+categories: 
+    - projects
+    - hackathon
 ---
 I helped run the Data & Art hackathon with Bétonsalon - Center for Art and Research. I provided mentoring and technical advice for the students of the Cergy Art School and 42 School of Computer Science in Paris as they worked on projects linking art and data science.
 

@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "IncluZor·e"
+title:  "IncluZor·e : Inclusive French"
 date:   2019-02-24 22:34:29 +0300
-categories: projects
+categories: 
+- projects
+- language
 ---
 Incluzor·e is a tool to automatically convert French text into inclusive language that places both male and female individuals in the text. The project was born during a hackathon in Paris in January 2018 and is being worked on by a small team of linguists, developpers, and data scientists. We are looking for help, so if you want to join the team send me an email! I handled all the NLP coding (natural language processing), and website development.
 

@@ -10,6 +10,12 @@ title: projects
     <div class="post-entry-title">
       <a href="{{ post.url }}">{{ post.title }}</a>
     </div>
+    <div class="post-entry-tags">
+      {% for category in post.categories %} {% unless category == "projects" or
+      category == "other" %}
+      <span class="post-entry-tag">{{ category }}</span>
+      {% endunless %} {% endfor %}
+    </div>
     <div class="post-entry-date">{{ post.date | date: "%h %Y" }}</div>
   </div>
   {% endif %}{% endfor %}
