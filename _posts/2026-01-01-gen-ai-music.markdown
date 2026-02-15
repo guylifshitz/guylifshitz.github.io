@@ -7,33 +7,60 @@ categories:
     - genAI
 ---
 
+## TLDR: ##
+Here are two playlists of songs I have generated to help me learn
+- [Arabic](https://suno.com/playlist/0c5ded60-5ada-44dd-9726-7db4733c027a)
+- [Hebrew](https://suno.com/playlist/f26e7439-eb49-4a8c-a5e4-50fac11cf8cf)
 
-Have you ever tried to practice a language, only to realize that most songs, videos, or texts are way above your level? Many language learners complain that they **forget a language** because they don’t use it enough. Traditional resources often feel too difficult, too boring, or just not relevant to your interests. But what if there were a way to **generate content that’s actually fun and tailored to your level**?
 
-Enter **Suno**, an AI music generation tool that can transform the way we practice languages. With Suno, you can create songs using **words and phrases that match your current language proficiency**, letting you enjoy music *and* reinforce your vocabulary at the same time.
+## Intro ##
+Music is a particularly powerful tool, as people willingly return to the same song over-and-over again. However, early learners will have a hard time finding intersting songs at their level, and an advanced user might have a hard time finding music that interests them in the langauge. Remembering a language is also a challenge, as many people forget a language as they become culturally separated from it. Using GenAI, individuals can now generate content targeted to their level and the musical styles that interest them. 
 
-## Tailor-Made Songs for Your Level
+Finding interesting material to practice with is always a major challenge for teachers and students. My first idea, to use RSS news feeds from existing real newspapers and other langauge specific sources, orderd by number of words the user knows, became [Yamilaa](https://www.yamilaa.com/). The recent rise of GenAI tools provided a chance to explore new kinds of learning materials.
 
-One of the biggest challenges in language learning is finding content that is **both comprehensible and engaging**. Suno changes that by letting you input:
+In recent months I have started taking intensive Arabic classes, and I was seeking ways to practice in a way that felt meaningful and motivating to me, while exploring the potential of GenAI tools.
 
-- Words you already know  
-- Themes or feelings you want in a song  
-- Rhythms, styles, or genres you like  
+In this article I present my early experiments with Suno, a Music GenAI tool. 
 
-The AI then generates a song that uses **only the words at your level**, while still sounding like a real, listenable piece of music. Suddenly, learning and practice become effortless, because you’re actually enjoying the content instead of struggling to decode it.
+## Setup ##
 
-## AI Slops Its Way to Practice
+I keep a spreadsheet with all the words we have learned so far. A preliminary step is to export this list of words to your text writing GenAI tool. 
 
-Some people worry that AI-generated content might be “too perfect” or mechanical. But in reality, AI can **slop its way** into creating a playful, creative space where mistakes, unusual phrasing, and repetition become part of the learning experience. This is a huge advantage: you get **tons of practice** with vocabulary you actually know, in a context that makes sense for you. 
+An example prompt is `Here is the list of lemmas I know in language X, remember this as "List A"`. 
 
-It’s like having a **personalized radio station**, where every song is carefully curated to your current level, and you can gradually increase complexity as you improve. No more skipping songs because they’re too hard to understand. No more forgetting words because they never come up naturally. 
+Now when generating song lyrics, in our prompts we can request that as much as possible, it use words from this lemma list.
 
-## Keep Your Language Alive
+## Writing the lyrics ##
+A heavy use of GenAI for text creation could simply request a full song using as much as possible only words from the words that you have seen in class.
 
-By generating content that’s **tailored to your level**, Suno allows you to **keep practicing consistently**, even if you don’t have access to native speakers or authentic media at your proficiency. You’re no longer limited to what exists—you can create your own language universe, one song at a time.  
+- `Write a song, using lemmas from List A, to practice these words describing colours: ...`
 
-This isn’t just about music. It’s about **keeping a language alive in your daily life**, making practice enjoyable, and turning what used to feel like a chore into a **creative, immersive experience**.
+However, a more active song lyric writing process will result in better learning, as the learner has to think deeply about what words they know, which words they want to practice, and how those words all fit together gramatically and artistically. I found what would work well for me was to sketch out some ideas, then collaborate with my AI writing tool in iterations by tryingout some lyrics on my own, asking the AI if the text seems gramatically correct, and to help me re-write some sections. 
 
----
+- `Is this correct in palestinan arabic?: [text]`
+- `Could you rewrite this to make it sound better in a pop song: [text]`
+- `Could you provide a few options for how to re-write this line: [text]`
 
-Using Suno, language learners can finally bridge the gap between **motivation and comprehension**, creating a world where **practice matches your level, and music matches your taste**. In short: AI doesn’t just generate songs—it generates **opportunities to use and remember your language**.
+The more the process is an active process, the better, but even when the AI provides several options, you will have to think about which of the options feels best by having a good understanding of the language both in meaning and in phonetics.
+
+
+## Let's generate the music ##
+
+Now that we have a first draft of the song lyrics, pick a musician you like who's style you want to emulate, and request a description of that musicians style as a Suno style.
+
+`"Could you provide a description of X as a Suno style"`
+
+Now we simply put this into suno's Styles section along with the Lyrics and generate.
+
+Here are two playlists of the best songs I have generated so far. Many of these songs are songs I listen to on a frequent basis over weeks and months. 
+- [Arabic](https://suno.com/playlist/0c5ded60-5ada-44dd-9726-7db4733c027a)
+- [Hebrew](https://suno.com/playlist/f26e7439-eb49-4a8c-a5e4-50fac11cf8cf)
+
+
+## Bonus tips ##
+
+- Iterate, iterate, iterate: as you write the song, you will find that some things just work and some things just don't. So write a first draft, generate some music, then see what works, and what doesn't. 
+- Sleep on it. You'll end up having LOTs of versions of the song that you think sound good. Take a break, see what sounds good tomorrow, next week, next month. Your favourite song version might change over time.
+- Even with the free version of Suno, you can download a MP3.
+- Share with your friends or other students in your language class. 
+- Remember, with the free version of Suno, you don't own the commercial rights to your songs... 
