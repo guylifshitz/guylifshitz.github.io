@@ -4,6 +4,7 @@ title:  "Yamilaa : a language learning tool"
 date:   2026-01-01 22:34:29 +0300
 categories:
     - projects
+    - tool
 ---
 
 With yamilaa, you can explore interesting and culturally relevant practice texts in the languages you're learning. The yamilaa system uses Natural Language Processing (NLP) to parse each text, find all word inflections, and analyze grammatical features. For example, the verb “to run” includes forms like “running,” “ran,” and “runs.” You can also upload your own practice texts. The system will automatically analyze them, and you can share them with others, so a teacher can share documents with their class. We currently source documents from major news outlets, song lyrics, culturally relevant Wikipedia articles, and subtitles from TV shows and movies. Right now, we support Arabic and Hebrew. We're working on adding Greek, with more languages to come.
