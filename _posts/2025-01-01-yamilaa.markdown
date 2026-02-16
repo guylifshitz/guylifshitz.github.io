@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Yamilaa : a language learning tool"
+date:   2026-01-01 22:34:29 +0300
+categories:
+    - projects
+---
+
+With yamilaa, you can explore interesting and culturally relevant practice texts in the languages you're learning. The yamilaa system uses Natural Language Processing (NLP) to parse each text, find all word inflections, and analyze grammatical features. For example, the verb “to run” includes forms like “running,” “ran,” and “runs.” You can also upload your own practice texts. The system will automatically analyze them, and you can share them with others, so a teacher can share documents with their class. We currently source documents from major news outlets, song lyrics, culturally relevant Wikipedia articles, and subtitles from TV shows and movies. Right now, we support Arabic and Hebrew. We're working on adding Greek, with more languages to come.
+
+[Check it out here.](https://www.yamilaa.com/){:target="_blank"}
+
+
+![An image of the Nellie, the Yamilaa mascot]({{"assets/images/2025-01-01-yamilaa/nellie.jpg",  | relative_url }})
+
+
+# Some Features: #
+### Analyze your documents ###
+Upload your documents, and have them automatically analyzed for grammatical features. Quickly identify the words you know, and the words you want to practice. Generate word collections with frequency analysis, so you can focus on learning the most common words in the text. Translation and text-to-speech are built in.
+
+
+### Find practice texts matched to your level ###
+Browse practice texts matched to your level. Discover fresh content daily from top news sources, song lyrics, TV shows, and more. These engaging texts go beyond typical course materials, making it easier to read a little every day and connect directly with the culture of the language you're learning.
+
+
+
+### Quickly see forms of a word ###
+Quickly see all forms of a word by clicking on it. NLL shows all the possible forms, along with grammatical features (root, pattern, etc.), helping you understand the highly ambiguous words found in Arabic and Hebrew.
+
+### Build custom word collections ###
+Create your own custom word collections, or use auto-generated ones built from your documents and folders. These collections are sorted and filtered by word frequency within the document or based on frequency in various language sources like news, subtitles, and songs.
+
+### Rate words ###
+Using the words you have rated, NLL identifies which texts are easy or hard for you, and suggests practice texts that are targeted to your level. Word ratings also help you quickly spot paragraphs that may be too difficult, so you don’t get stuck—just translate them and keep reading.
+
+![A screenshot of the word collections feature]({{"assets/images/2025-01-01-yamilaa/images/analyze-white.png" | relative_url }})
+
+![A screenshot of the document analysis feature]({{"assets/images/2025-01-01-yamilaa/images/analyze-black.png" | relative_url }})
+
+![A screenshot of the word analysis feature]({{"assets/images/2025-01-01-yamilaa/images/word-popover-dark.png" | relative_url }})
+
+![A screenshot of the word rating]({{"assets/images/2025-01-01-yamilaa/images/rating-dark.png" | relative_url }})
+
